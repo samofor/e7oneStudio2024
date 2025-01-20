@@ -1,5 +1,6 @@
 Edit by SaMoFor 20250120_17:11
 
+<img src="https://e7onestudio.com/wp-content/uploads/FoFoCup-Group_A-1.jpg">
 ---------------------------------
 
 # My first HackMD note (change me!)
