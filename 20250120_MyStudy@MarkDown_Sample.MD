@@ -1,6 +1,6 @@
 Edit by SaMoFor 20250120_17:11
 
-<img src="https://e7onestudio.com/wp-content/uploads/FoFoCup-Group_A-1.jpg" width=400><img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width=400>
+<img src="https://e7onestudio.com/wp-content/uploads/FoFoCup-Group_A-1.jpg" width=400> <img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width=400>
 ---------------------------------
 
 # My first HackMD note (change me!)
