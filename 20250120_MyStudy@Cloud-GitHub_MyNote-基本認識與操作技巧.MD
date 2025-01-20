@@ -64,5 +64,10 @@
 
 # 【常用指令】
 ## git --version
-
-
+## git config --list
+## q .... 離開git環境
+## git config user.name
+## git config user.email
+## git config --global user.name "samofor"
+## git config --global user.email "samofor@gmail.com"
+## git init .... 初始化工作資料夾，會產生".git"隱藏資料夾
