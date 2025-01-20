@@ -69,5 +69,26 @@
 ## git config user.name
 ## git config user.email
 ## git config --global user.name "samofor"
-## git config --global user.email "samofor@gmail.com"
+## git config --global user.email "smf1027@ms1.hinet.net"
 ## git init .... 初始化工作資料夾，會產生".git"隱藏資料夾
+## git remote add origin MyGitHubURL
+- git remote add origin https://github.com/samofor/mystudy
+## git clone MyGitHubURL
+- git clone https://github.com/samofor/mystudy
+## git add MyFile
+- git add .\MyFile.md
+- [ git add . ] ..... 一次打包所有異動者
+## git commit -m "MyNoteInfo"
+## git push -u origin MyBranchName
+- git push -u origin main
+
+## git pull
+- 線上的Commit會打包所有異動者，可一次全下載
+
+
+## Push My Local Files
+```c
+git add . 
+git commit -m "MyNoteInfo"
+git push -u origin MyBranchName
+```
