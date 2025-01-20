@@ -1,13 +1,7 @@
 
 
-# 【DesktopStudio】 20250119
+# 【MyStudy_GitHub】 20250119
 
 
-
-# 【Download】
-
-- https://desktop.github.com/download/
-
-
-## git --version
+<img src="20240105_AIGC_Bing_美麗藝術性_S004-01.jpg">
 
