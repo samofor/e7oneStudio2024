@@ -1,43 +1,35 @@
-
-
-# 【DesktopStudio】 20250119
-
-
-
 # 【Download】
 
 - https://desktop.github.com/download/
 - https://tortoisegit.org/download/
 
-## git --version
+# 【常用指令】
+### git --version
+### git config --list
+### q .... 離開git環境
+### git config user.name
+### git config user.email
+### git config --global user.name "samofor"
+### git config --global user.email "smf1027@ms1.hinet.net"
+### git init .... 初始化工作資料夾，會產生".git"隱藏資料夾
+### git remote add origin MyGitHubURL
+### git clone MyGitHubURL
+### git add MyFile
+- git add .\MyFile.md
+- git add . 
+### git commit -m "MyNoteInfo"
+### git push -u origin MyBranchName
+- git push -u origin main
 
-C:\Users\samofor>git --version
-git version 2.45.2.windows.1
+### git pull
+- 線上的Commit會打包所有異動者，可一次全下載
 
-~~~c
 
-C:\Users\samofor>git config --global user.name "samofor.e7nestudio"
-
-C:\Users\samofor>git config --global user.email "smf1027@ms1.hinet.net"
-
-C:\Users\samofor>git config --list
-diff.astextplain.textconv=astextplain
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-http.sslbackend=openssl
-http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
-core.autocrlf=true
-core.fscache=true
-core.symlinks=false
-pull.rebase=false
-credential.helper=manager
-credential.https://dev.azure.com.usehttppath=true
-init.defaultbranch=master
-user.name=samofor.e7nestudio
-user.email=smf1027@ms1.hinet.net
-
-~~~
+### Push My Local Files
+```git
+git add . 
+git commit -m "MyNoteInfo"
+git push -u origin MyBranchName
+```
 
 
