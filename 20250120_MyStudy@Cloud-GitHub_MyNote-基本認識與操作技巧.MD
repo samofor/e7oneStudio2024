@@ -1,7 +1,8 @@
 
-## 20250120_MyStudy@Cloud-GitHub_MyNote-基本認識與操作技巧(update_20250121_14:02)
+## 20250120_MyStudy@Cloud-GitHub_MyNote-基本認識與操作技巧(update_20250121_17:02)
 
 ## edit by 【e7oneStudio.com 蔡孟峰】 
+<img src="2014_0204_0955_update_share.jpg" width="600">
 <img src="https://e7onestudio.com/wp-content/uploads/FoFoCup-Group_A-1.jpg" width=250> <img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width=350>
 # 【GitHub】
 
