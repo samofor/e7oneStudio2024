@@ -5,7 +5,6 @@
 ## edit by 【e7oneStudio.com 蔡孟峰】 
 
 <img src="MyPrivate_img_home_2014-01.jpg" width="600">
-<img src="MyPrivate_img_home_2014-02.jpg" width="600">
 
 <img src="https://e7onestudio.com/wp-content/uploads/FoFoCup-Group_A-1.jpg" width=250> <img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width=350>
 
