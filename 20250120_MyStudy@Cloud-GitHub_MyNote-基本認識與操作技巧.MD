@@ -102,5 +102,5 @@ git push -u origin 20250120
 - 快速瀏覽過去的提交記錄
 
 ## Special Skill
-### 建立.gitignore檔
-- 把需要不被追蹤的檔名列於.gitignore檔中
+### 建立.gitignore檔 (SMF:似乎無效)
+- 把需要不被追蹤的檔名列於.gitignore檔中 
