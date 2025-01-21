@@ -1,5 +1,5 @@
 
-## 20250120_MyStudy@Cloud-GitHub_MyNote-基本認識與操作技巧(update_20250121_1010)
+## 20250120_MyStudy@Cloud-GitHub_MyNote-基本認識與操作技巧(update_20250121_14:02)
 
 ## edit by 【e7oneStudio.com 蔡孟峰】 
 <img src="https://e7onestudio.com/wp-content/uploads/FoFoCup-Group_A-1.jpg" width=250> <img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width=350>
@@ -96,3 +96,11 @@ git push -u origin MyBranchName
 git push -u origin main
 git push -u origin 20250120
 ```
+
+### git status
+### git log --oneline  
+- 快速瀏覽過去的提交記錄
+
+## Special Skill
+### 建立.gitignore檔
+- 把需要不被追蹤的檔名列於.gitignore檔中
