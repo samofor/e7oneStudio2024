@@ -1,7 +1,7 @@
 
 ## 20250120_MyStudy@Cloud-GitHub_MyNote-基本認識與操作技巧
 
-## edit by 【e7oneStudio 蔡孟峰】 update_20250121_1000(LocalUpdate)
+## edit by 【e7oneStudio 蔡孟峰】 update_20250121_1005(LocalUpdate)
 <img src="https://e7onestudio.com/wp-content/uploads/FoFoCup-Group_A-1.jpg" width=250> <img src="https://e7onestudio.com/wp-content/uploads/FilesShare20240905_AIGC_SD_MyLora_DozhaiGirl_00317.jpg" width=350>
 # 【GitHub】
 
@@ -94,4 +94,5 @@ git commit -m "MyUpdate_補校用_20250121"
 
 git push -u origin MyBranchName
 git push -u origin main
+git push -u origin 20250120
 ```
