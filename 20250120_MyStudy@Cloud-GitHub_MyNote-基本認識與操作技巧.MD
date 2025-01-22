@@ -72,10 +72,12 @@
 ### git config --global user.name "samofor"
 ### git config --global user.email "smf1027@ms1.hinet.net"
 ### git init .... 初始化工作資料夾，會產生".git"隱藏資料夾
+
 ### git remote add origin MyGitHubURL
 - git remote add origin https://github.com/samofor/mystudy
 ### git clone MyGitHubURL
 - git clone https://github.com/samofor/mystudy
+
 ### git add MyFile
 - git add .\MyFile.md
 - [ git add . ] ..... 一次打包所有異動者
@@ -105,3 +107,7 @@ git push -u origin 20250120
 ## Special Skill
 ### 建立.gitignore檔 
 - 把需要不被追蹤的檔名列於.gitignore檔中 
+
+----------------------
+
+
