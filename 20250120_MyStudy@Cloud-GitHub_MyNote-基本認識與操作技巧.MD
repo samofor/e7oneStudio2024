@@ -1,5 +1,5 @@
 
-## 20250120_MyStudy@Cloud-GitHub_MyNote-基本認識與操作技巧(update_20250121_17:02)
+## 20250120_MyStudy@Cloud-GitHub_MyNote-基本認識與操作技巧(update_20250123_19:52)
 
 ## edit by 【e7oneStudio.com 蔡孟峰】 
 <img src="2014_0204_0955_update_share.jpg" width="600">
@@ -108,6 +108,66 @@ git push -u origin 20250120
 ### 建立.gitignore檔 
 - 把需要不被追蹤的檔名列於.gitignore檔中 
 
-----------------------
+
+---
+
+# 1-1【自動建置遠端GitHub】_固定Repository名稱
+```sh
+
+git init
+echo "# 【MyRepo Initial】" > README.md
+echo "Hello World !" >> README.md
+rem ---------------
+
+gh repo create MyRepoNew --public
+rem 在GitHub建新的Repository -- MyRepoNew
+git remote add origin https://github.com/UserAccount/MyRepoNew.git
+rem 連線GitHub -- MyRepoNew.git 
+git add .
+git commit -m "First commit" 
+git branch -M main
+rem 建置新的brainch -- main
+git push -u origin main
+
+```
+
+# 1-2【自動建置遠端GitHub】_參數化Repository名稱
+```sh
+
+mkdir %1
+cd %1
+git init
+echo "# 【MyRepo Initial -- %1 】" > README.md
+echo "Hello World !" >> README.md
+rem ---------------
+gh repo create %1 --public
+rem 在GitHub建新的Repository 
+git remote add origin https://github.com/UserAccount/%1.git
+rem 連線GitHub 
+git add .
+git commit -m "First commit -- %1" 
+git branch -M main 
+rem 建置新的brainch -- main
+git push -u origin main
+
+```
+
+# 2-1【自動建置遠端GitHub Branch】_固定 Repository, Branch 名稱
+```sh
+cd MyRepoNew
+git checkout -b MyBranch
+git push -u origin MyBranch
+```
+
+
+
+# 2-2【自動建置遠端GitHub Branch】_參數化 Repository, Branch 名稱
+```sh
+cd %1
+git checkout -b %2
+git push -u origin %2
+```
+
+
 
 
